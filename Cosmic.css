@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://github.com/Perfexy/Perfexy.github.io/blob/ac24f112f385232070bc4f2c1dea1f7fb1830b18/base.png);
+    background: url(base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -17,7 +17,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://github.com/Perfexy/Perfexy.github.io/blob/ac24f112f385232070bc4f2c1dea1f7fb1830b18/sticks.png);
+    background: url(sticks.png);
     height: 94px;
     width: 94px;
 }
